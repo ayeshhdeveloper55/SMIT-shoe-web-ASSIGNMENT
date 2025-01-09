@@ -1,0 +1,46 @@
+.logo{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.navbar{
+    margin-top: 20px;
+    margin-left:200px ;
+    gap: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn{
+    margin-left: 100px;
+    height: 50px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+    margin-top: 60PX;
+    font-size: 70PX;
+    color: black;
+    ;line-height: 65px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.para{
+    font-size: 13px;
+    font-weight: 500;
+    color: rgb(107, 106, 106);
+    
+
+
+}
+
+.img{
+    margin-top: 80px;
+     width: 400px;
+     height: 400px;
+
+}
+.btn1{
+    background-color: rgb(141, 43, 43);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 30px;
+}
